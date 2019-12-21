@@ -91,11 +91,11 @@ does not exist yet.
 ### Europe
 
 - [ ] Czech Republic `cz`
-- [ ] Finland `fi`
+- [X] [Finland `fi`](svg/fi)
 - [ ] Hungary `hu`
 - [ ] Ireland `ir`
 - [ ] Italy `it`
-- [ ] Latvia  `lv`
+- [X] [Latvia `lv`](svg/lv)
 - [ ] Lithuania `lt`
 - [ ] Poland `po`
 - [ ] Spain `es`
