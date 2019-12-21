@@ -8,7 +8,8 @@ concepts for EPITA International servers.
 In the fourth semester at the "EPITA" school, students go abroad in many 
 countries. In order to better organize themselves, the students have created
 Discord servers, and these servers have logos which are inconsistent or straight
-up... not nice.
+up... not nice. This repository intends to provide a unified logo design for all
+servers that is both readable at small sizes but still beautiful.
 
 ## Copyright notice
 
