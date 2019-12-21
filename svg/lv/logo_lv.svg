@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -6,72 +8,84 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:xlink="http://www.w3.org/1999/xlink"
-   id="SVGRoot"
-   version="1.1"
-   viewBox="0 0 64 64"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="64px"
    height="64px"
-   width="64px">
+   viewBox="0 0 64 64"
+   version="1.1"
+   id="SVGRoot"
+   sodipodi:docname="logo_lv.svg"
+   inkscape:export-filename="C:\Users\matth\epilet2.png"
+   inkscape:export-xdpi="768"
+   inkscape:export-ydpi="768"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="14.481547"
+     inkscape:cx="31.922928"
+     inkscape:cy="26.664779"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1822"
+     inkscape:window-height="1051"
+     inkscape:window-x="89"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:grid-bbox="true"
+     inkscape:snap-page="true"
+     inkscape:snap-global="false" />
   <defs
      id="defs851">
     <linearGradient
+       inkscape:collect="always"
        id="linearGradient1533">
       <stop
-         id="stop1529"
+         style="stop-color:#4b0000;stop-opacity:1"
          offset="0"
-         style="stop-color:#4b0000;stop-opacity:1" />
+         id="stop1529" />
       <stop
-         id="stop1531"
+         style="stop-color:#7c0000;stop-opacity:1"
          offset="1"
-         style="stop-color:#7c0000;stop-opacity:1" />
+         id="stop1531" />
     </linearGradient>
     <linearGradient
-       gradientUnits="userSpaceOnUse"
-       y2="0"
-       x2="32.261719"
-       y1="64"
-       x1="32.261719"
+       inkscape:collect="always"
+       xlink:href="#linearGradient1533"
        id="linearGradient1535"
-       xlink:href="#linearGradient1533" />
+       x1="32.261719"
+       y1="64"
+       x2="32.261719"
+       y2="0"
+       gradientUnits="userSpaceOnUse" />
     <mask
-       id="mask2596-9"
-       maskUnits="userSpaceOnUse">
+       maskUnits="userSpaceOnUse"
+       id="mask2596-9">
       <g
-         transform="matrix(16.22329,0,0,16.22329,77.630975,-228.27087)"
-         id="g2604-2"
-         style="stroke-width:0.06163978">
-        <path
-           id="path2598-6"
-           d="m 5.3125,31.1875 26.375,-16.75 1.1875,36.25 z"
-           style="fill:#ffffff;stroke:none;stroke-width:0.06163978px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-        <path
-           id="path2600-6"
-           d="M 8.6875,41.8125 43.9375,14.9375 55.4375,42 Z"
-           style="fill:#ffffff;stroke:none;stroke-width:0.06163978px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-        <path
-           id="path2602-1"
-           d="m 33.5625,17.5 25.5,19 L 19.75,46.875 Z"
-           style="fill:#ffffff;stroke:none;stroke-width:0.06163978px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-      </g>
-    </mask>
-    <mask
-       id="mask2665"
-       maskUnits="userSpaceOnUse">
-      <g
-         transform="matrix(16.22329,0,0,16.22329,77.630975,-228.27087)"
          style="stroke-width:0.06163978"
-         id="g2673">
+         id="g2604-2"
+         transform="matrix(16.22329,0,0,16.22329,77.630975,-228.27087)">
         <path
            style="fill:#ffffff;stroke:none;stroke-width:0.06163978px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            d="m 5.3125,31.1875 26.375,-16.75 1.1875,36.25 z"
-           id="path2667" />
+           id="path2598-6"
+           inkscape:connector-curvature="0" />
         <path
            style="fill:#ffffff;stroke:none;stroke-width:0.06163978px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            d="M 8.6875,41.8125 43.9375,14.9375 55.4375,42 Z"
-           id="path2669" />
+           id="path2600-6"
+           inkscape:connector-curvature="0" />
         <path
            style="fill:#ffffff;stroke:none;stroke-width:0.06163978px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            d="m 33.5625,17.5 25.5,19 L 19.75,46.875 Z"
-           id="path2671" />
+           id="path2602-1"
+           inkscape:connector-curvature="0" />
       </g>
     </mask>
   </defs>
@@ -83,44 +97,43 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
-     id="layer1">
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Calque 1">
     <rect
-       y="0"
-       x="0"
-       height="64"
-       width="64"
+       style="opacity:1;vector-effect:none;fill:url(#linearGradient1535);fill-opacity:1;stroke:none;stroke-width:6.04724407;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect1527"
-       style="opacity:1;vector-effect:none;fill:url(#linearGradient1535);fill-opacity:1;stroke:none;stroke-width:6.04724407;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+       width="64"
+       height="64"
+       x="0"
+       y="0" />
     <g
-       mask="none"
-       id="g1457">
+       id="g1457"
+       mask="none">
       <path
-         style="fill:#9e3039;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:0.73725492"
+         inkscape:connector-curvature="0"
+         id="path1416"
          d="m 5.3125,31.1875 26.375,-16.75 1.1875,36.25 z"
-         id="path1416" />
+         style="fill:#9e3039;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:0.73725492" />
       <path
-         style="fill:#9e3039;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:0.7372549;font-variant-east_asian:normal;opacity:1;vector-effect:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+         inkscape:connector-curvature="0"
+         id="path1418"
          d="M 8.6875,41.8125 43.9375,14.9375 55.4375,42 Z"
-         id="path1418" />
+         style="fill:#9e3039;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:0.7372549;font-variant-east_asian:normal;opacity:1;vector-effect:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0" />
       <path
-         style="fill:#9e3039;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:0.7372549;font-variant-east_asian:normal;opacity:1;vector-effect:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+         inkscape:connector-curvature="0"
+         id="path1420"
          d="m 33.5625,17.5 25.5,19 L 19.75,46.875 Z"
-         id="path1420" />
+         style="fill:#9e3039;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:0.7372549;font-variant-east_asian:normal;opacity:1;vector-effect:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0" />
     </g>
-    <g
-       mask="url(#mask2665)"
-       style="stroke-width:16.22328949"
-       transform="matrix(0.06163978,0,0,0.06163978,-4.7851562,14.070566)"
-       id="g2594">
-      <path
-         style="fill:#ffffff;stroke-width:16.22328949"
-         d="M 0,240 H 1200 V 360 H 0"
-         id="path2582" />
-    </g>
+    <path
+       style="fill:#ffffff;stroke-width:1"
+       d="M 8.9726562 28.863281 L 5.3125 31.1875 L 12.486328 36.261719 L 58.742188 36.261719 L 50.337891 30 L 49.855469 28.863281 L 8.9726562 28.863281 z "
+       id="path2582" />
   </g>
 </svg>

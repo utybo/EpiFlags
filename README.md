@@ -50,7 +50,10 @@ The general guidelines are:
 
 * Using Inkscape? Make sure you are using "Simple SVG" when saving to this
   repository, or else nasty metadata may be leaked (and the SVG will be much
-  larger using Inkscape SVG anyway).
+  larger using Inkscape SVG anyway). **Mask information is broken!** Consider
+  using a workflow like: clone the EPITA logo, ungroup, combine EPITA triangles
+  into a single path, combine paths that need to be cut out for the logo, and
+  intersect the paths with the combined triangles.
 * The organization is as follows:
   ```
   <root>

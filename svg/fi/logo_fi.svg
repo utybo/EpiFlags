@@ -6,11 +6,35 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="SVGRoot"
    version="1.1"
    viewBox="0 0 64 64"
    height="64px"
-   width="64px">
+   width="64px"
+   sodipodi:docname="logo_fi.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1822"
+     inkscape:window-height="1051"
+     id="namedview884"
+     showgrid="false"
+     inkscape:zoom="10.429825"
+     inkscape:cx="34.168093"
+     inkscape:cy="40.894056"
+     inkscape:window-x="89"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
   <defs
      id="defs851">
     <linearGradient
@@ -24,27 +48,6 @@
          offset="1"
          style="stop-color:#7ea6ff;stop-opacity:1" />
     </linearGradient>
-    <mask
-       id="mask1493"
-       maskUnits="userSpaceOnUse">
-      <g
-         transform="matrix(36.281943,0,0,36.281943,-284.82129,-645.8131)"
-         style="stroke-width:0.02756192"
-         id="g1501">
-        <path
-           style="fill:#ffffff;stroke:none;stroke-width:0.02756192px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           d="m 5.3125,31.1875 26.375,-16.75 1.1875,36.25 z"
-           id="path1495" />
-        <path
-           style="fill:#ffffff;stroke:none;stroke-width:0.02756192px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           d="M 8.6875,41.8125 43.9375,14.9375 55.4375,42 Z"
-           id="path1497" />
-        <path
-           style="fill:#ffffff;stroke:none;stroke-width:0.02756192px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           d="m 33.5625,17.5 25.5,19 L 19.75,46.875 Z"
-           id="path1499" />
-      </g>
-    </mask>
     <linearGradient
        gradientUnits="userSpaceOnUse"
        y2="0"
@@ -62,7 +65,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -90,25 +93,9 @@
          d="m 33.5625,17.5 25.5,19 L 19.75,46.875 Z"
          id="path1420" />
     </g>
-    <g
-       mask="url(#mask1493)"
-       style="stroke-width:36.28193665"
-       transform="matrix(0.02756192,0,0,0.02756192,7.8502216,17.799849)"
-       id="g1452">
-      <rect
-         style="fill:#003580;stroke-width:36.28193665"
-         x="-225.48521"
-         width="2200.8628"
-         height="300"
-         y="400"
-         id="rect1437" />
-      <rect
-         style="fill:#003580;stroke-width:36.28193665"
-         y="-225.48521"
-         width="300"
-         height="1470.7979"
-         x="500"
-         id="rect1439" />
-    </g>
+    <path
+       style="fill:#003580;stroke-width:0.99999982"
+       d="M 29.900391 15.572266 L 21.630859 20.824219 L 21.630859 28.824219 L 9.0332031 28.824219 L 5.3125 31.1875 L 13.662109 37.09375 L 21.630859 37.09375 L 21.630859 42.732422 L 21.681641 42.767578 L 21.630859 42.875 L 21.630859 46.378906 L 25.384766 45.388672 L 29.900391 48.583984 L 29.900391 37.09375 L 56.810547 37.09375 L 59.0625 36.5 L 50.337891 30 L 49.837891 28.824219 L 29.900391 28.824219 L 29.900391 15.572266 z "
+       id="rect1437" />
   </g>
 </svg>
