@@ -97,7 +97,7 @@ does not exist yet.
 - [ ] Czech Republic `cz`
 - [X] [Finland `fi`](svg/fi)
 - [ ] Hungary `hu`
-- [X] [Ireland `ir`](srv/ir)
+- [X] [Ireland `ir`](svg/ir)
 - [ ] Italy `it`
 - [X] [Latvia `lv`](svg/lv)
 - [ ] Lithuania `lt`
