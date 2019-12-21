@@ -16,6 +16,12 @@ The EPITA logo embedded in all flags was recreated from the ground up. This
 project is not endorsed by the EPITA school. The EPITA logo may be a registered
 trademark, please inform yourself!
 
+**If you are a EPITA student maintaining one of the aforementioned servers**, 
+you are free to use the corresponding logo for the server.
+
+**Please do not use these logos for any other purpose than Discord server 
+logos.**
+
 ## Logos general design guidelines
 
 Follow the logo for Finland in priority, as it is the first one that was made.
@@ -33,6 +39,20 @@ The general guidelines are:
   * A color that appears on the country's coat of arms
 * Keep in mind that Discord server logos are circles that expand to rectangles
   with rounded corners when hovered over or selected.
+
+## Repository notes
+
+* Using Inkscape? Make sure you are using "Simple SVG" when saving to this
+  repository, or else nasty metadata may be leaked (and the SVG will be much
+  larger using Inkscape SVG anyway).
+* The organization is as follows:
+  ```
+  <root>
+  +- README.md
+  +- <country code>
+     +- logo_<country code>.svg
+     +- logo_<country code>_<variant description>.svg
+  ```
 
 ## TO-DO
 
