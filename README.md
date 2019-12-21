@@ -12,6 +12,11 @@ up... not nice.
 
 ## Copyright notice
 
+The logos and all other files in this repository are made available under the CC
+BY-NC 4.0 International license. You can read a
+[human-friendly version](https://creativecommons.org/licenses/by-nc/4.0/) or
+the [license's text](LICENSE).
+
 The EPITA logo embedded in all flags was recreated from the ground up. This
 project is not endorsed by the EPITA school. The EPITA logo may be a registered
 trademark, please inform yourself!
