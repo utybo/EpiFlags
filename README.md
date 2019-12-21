@@ -83,7 +83,7 @@ does not exist yet.
 - [ ] Bahrain `bh`
 - [ ] China `cn`
 - [ ] Hong Kong `hk`
-- [ ] India `in`
+- [X] [India `in`](svg/in)
 - [ ] Israel `il`
 - [ ] Jordan `jo`
 - [ ] South Korea `kr`
