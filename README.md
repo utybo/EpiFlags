@@ -41,42 +41,42 @@ does not exist yet.
 
 ### Americas
 
-- [ ] Bolivia
-- [ ] Brazil
-- [ ] Canada
-- [ ] Columbia
-- [ ] Mexico
-- [ ] Peru
-- [ ] USA
+- [ ] Bolivia `bo`
+- [ ] Brazil `br`
+- [ ] Canada `ca`
+- [ ] Columbia `co`
+- [ ] Mexico `mx`
+- [ ] Peru `pe`
+- [ ] USA `us`
 
 ### Asia
 
-- [ ] Bahrain
-- [ ] China
-- [ ] Hong Kong
-- [ ] India
-- [ ] Israel
-- [ ] Jordan
-- [ ] South Korea
-- [ ] Taiwan
-- [ ] Thailand
-- [ ] United Arab Emirates
-- [ ] Vietnam
+- [ ] Bahrain `bh`
+- [ ] China `cn`
+- [ ] Hong Kong `hk`
+- [ ] India `in`
+- [ ] Israel `il`
+- [ ] Jordan `jo`
+- [ ] South Korea `kr`
+- [ ] Taiwan `tw`
+- [ ] Thailand `th`
+- [ ] United Arab Emirates `ae`
+- [ ] Vietnam `vn`
 
 ### Europe
 
-- [ ] Czech Republic
-- [ ] Finland
-- [ ] Hungary
-- [ ] Ireland
-- [ ] Italy
-- [ ] Latvia 
-- [ ] Lithuania
-- [ ] Poland
-- [ ] Spain
-- [ ] Turkey
-- [ ] Ukrain
-- [ ] United Kingdom
+- [ ] Czech Republic `cz`
+- [ ] Finland `fi`
+- [ ] Hungary `hu`
+- [ ] Ireland `ir`
+- [ ] Italy `it`
+- [ ] Latvia  `lv`
+- [ ] Lithuania `lt`
+- [ ] Poland `po`
+- [ ] Spain `es`
+- [ ] Turkey `tr`
+- [ ] Ukrain `ua`
+- [ ] United Kingdom `gb`
 
 ### Others
 
