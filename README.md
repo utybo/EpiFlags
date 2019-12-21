@@ -101,7 +101,7 @@ does not exist yet.
 - [ ] Italy `it`
 - [X] [Latvia `lv`](svg/lv)
 - [ ] Lithuania `lt`
-- [ ] Poland `po`
+- [X] [Poland `po`](svg/pl)
 - [ ] Spain `es`
 - [ ] Turkey `tr`
 - [ ] Ukrain `ua`
